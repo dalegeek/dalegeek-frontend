@@ -10,3 +10,4 @@ git add .gitignore build
 git commit -m 'build'
 git push -f -u origin production
 git checkout main
+git checkout -- .gitignore
