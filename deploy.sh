@@ -9,5 +9,5 @@ mv out docs
 git add docs
 git commit -m 'build'
 git push -f -u origin production
-rm -rf out
+rm -rf docs
 git checkout main
